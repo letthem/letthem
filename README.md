@@ -3,7 +3,6 @@
 ### 👋 Hi there 👋
 
 <br/>
-<br/>
 
 <!--
 **letthem/letthem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,6 @@ Here are some ideas to get you started:
 
 
 #### 🍒 Studying 🍒
-<br>
-
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -39,8 +36,6 @@ Here are some ideas to get you started:
 <br>
 
 #### 🌸 Tools 🌸
-<br>
-  
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
